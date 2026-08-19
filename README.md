@@ -1,3 +1,6 @@
+# IMPORTANT: This repo is no longer in use
+Documentation now is partially maintained by Mintlify, and hosted at https://github.com/pawtograder/mintlify-docs
+
 # Pawtograder Documentation
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
